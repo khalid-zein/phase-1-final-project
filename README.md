@@ -57,7 +57,7 @@ https://khalid-zein.github.io/phase-1-final-project/
 | ---------------------------------| ------------------------------------- | ----------------------------------------------------- |
 | click(Sign In)                   |                                       |   it output a login page                              |
 | click(Log In)                    |   You must input any email/password   |   Login successfuly/ Landing Page                     |
-| Search                           |   Input any Ingredient exa. rice      |   it output you meals availables if there's no matching meal it will tell you sorry, we didn't find any meal|
+| Search                           |   Input any Ingredient exa. rice      |   it output meals availables if there's no matching meal it will tell you sorry, we didn't find any meal|
 | click(get recipe)                |                                       |   it shows you the recipe with a youtube video        |
 
 
