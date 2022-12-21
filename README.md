@@ -43,4 +43,11 @@ https://khalid-zein.github.io/phase-1-final-project/
 <img src ="./img/D.png">
 <img src ="./img/E.png">
 
+## Future Updates
+
+1. To make this web application an android app
+
+2. Improvement on user experience in this app
+
+3. Introducing live cooking sessions
 
