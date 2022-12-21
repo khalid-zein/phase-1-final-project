@@ -150,3 +150,40 @@ body{
         top: -350px;
     }
 }
+.logo{
+    display: flex;
+}
+#logo{
+    font-size: 35px;
+    color: white;
+    margin-top: 2%;
+    letter-spacing: 3px;
+}
+.hidden .navbar{
+    background-color: #098d8f;
+}
+.hidden nav img{
+    height: 50px;
+}
+.hidden .navbar .container-fluid{
+    font-family: 'Anton', sans-serif;
+}
+.hidden .navbar .container-fluid a{
+    color: white;
+}
+.hidden .navbar .container-fluid .separate a{
+    position: relative;
+}
+.hidden .navbar .container-fluid .separate a::after{
+    content: '';
+    position: absolute;
+    background-color: #DF007C;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: 1px;
+    transition: 0.5s;
+}
+.hidden .navbar .container-fluid .separate a:hover::after{
+    width: 100%;
+}
