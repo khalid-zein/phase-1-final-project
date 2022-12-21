@@ -61,3 +61,15 @@ https://khalid-zein.github.io/phase-1-final-project/
 | click(get recipe)                |                                       |   it shows you the recipe with a youtube video        |
 
 
+## Author:
+
+[Khalid Zein](https:yueyyt)
+
+
+## Contact
+
++254794794734
+
+Email: zeinkhalid004@gmail.com
+
+
