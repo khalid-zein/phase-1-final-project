@@ -117,3 +117,36 @@ body{
 .error{
     color: red;
 }
+
+/*  */
+.hidden{
+    display: none;
+}
+.hidden .alert img{
+    height: 50px;
+}
+.alert{
+    width: 20%;
+    position: absolute;
+    top: -350px;
+    transition: linear ease-in .4s;
+    animation-name: box;
+    animation-duration: 3000ms;
+}
+@keyframes box {
+    0% {
+      top: 8%;
+    }
+    25% {
+        top: 8%;
+    }
+    50% {
+      top: 8%;
+    }
+    75% {
+        top: 8%;
+    }
+    100% {
+        top: -350px;
+    }
+}
