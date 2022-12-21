@@ -73,3 +73,7 @@ https://khalid-zein.github.io/phase-1-final-project/
 Email: zeinkhalid004@gmail.com
 
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
