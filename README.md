@@ -28,3 +28,19 @@ https://khalid-zein.github.io/phase-1-final-project/
 
         json-server --watch db.json
 
+## Technologies Used
+
+1. [HTML](https://)
+2. [CSS](https://)
+3. [Javascript](https://)
+4. [Bootstrap](https://)
+5. [jQuery](https://)
+
+## Screenshot of live page
+<img src ="./img/A.png">
+<img src ="./img/B.png">
+<img src ="./img/C.png">
+<img src ="./img/D.png">
+<img src ="./img/E.png">
+
+
